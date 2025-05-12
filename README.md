@@ -18,4 +18,4 @@ No further action is required.
 
 ### See: [Example](https://franbar1966.github.io/bootstrap-5-modal-dynamic/example/)
 
-It can be used in combination with: [modal dynamic](https://franbar1966.github.io/bootstrap-5-modal-dynamic)
+It can be used in combination with: [modal dynamic](https://github.com/FranBar1966/bootstrap-5-modal-dynamic)
