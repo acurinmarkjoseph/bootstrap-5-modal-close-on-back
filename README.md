@@ -2,7 +2,13 @@ Bootstrap 5 modal close on back button
 ======================================
 ### Close a bootstrap modal with back button
 
-Simply add the script to your page, you can download it from [here](https://github.com/FranBar1966/bootstrap-5-modal-close-on-back/tree/master/src) or:
+Simply add the script to your page, you can download it from [here](https://github.com/FranBar1966/bootstrap-5-modal-close-on-back/tree/master/src)
+
+```html
+<script src="modal-close-on-back.min.js"></script>
+```
+
+Or CDN:
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/FranBar1966/bootstrap-5-modal-close-on-back@master/src/modal-close-on-back.min.js"></script>
