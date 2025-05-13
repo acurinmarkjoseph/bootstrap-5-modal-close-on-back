@@ -5,7 +5,7 @@ var historyOpenModals = [];
 var skipModalHiddenEvent = false;
 var skipModalHashChangeEvent = false;
 
-window.addEventListener('show.bs.modal', (ev) => {
+window.addEventListener('shown.bs.modal', (ev) => {
     // sequential only
     if (!(ev.target.id in historyOpenModals)) {
         historyOpenModals.push(ev.target.id);
